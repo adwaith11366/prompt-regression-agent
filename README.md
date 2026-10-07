@@ -40,7 +40,7 @@ See a full example in [`docs/example_report.md`](docs/example_report.md).
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/prompt-regression-agent.git
+git clone https://github.com/<adwaith11366>/prompt-regression-agent.git
 cd prompt-regression-agent
 pip install -r requirements.txt
 
